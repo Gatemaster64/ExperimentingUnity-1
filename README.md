@@ -1,2 +1,2 @@
 # ExperimentingUnity-1
-Test repository 
+Test repository for testing Git with Unity.
